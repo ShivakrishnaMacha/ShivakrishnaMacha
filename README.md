@@ -60,6 +60,7 @@
 
 | Project | What it does | Stack |
 |---|---|
+| [ecommerce-analytics-platform](https://github.com/ShivakrishnaMacha/ecommerce-analytics-platform) | End-to-end ELT pipeline → DuckDB star schema → live BI dashboard | Python · DuckDB · Streamlit |
 | [End-to-End-Medical-Chatbot-GenAI](https://github.com/ShivakrishnaMacha/End-to-End-Medical-Chatbot-GenAI) | GenAI-powered medical chatbot, built end-to-end | Python · GenAI |
 | [End-to-End-MLOPS](https://github.com/ShivakrishnaMacha/End-to-End-MLOPS) | Production-grade MLOps pipeline | Python · MLflow |
 | [Churn_Prediction_Using_MLflow_DVC](https://github.com/ShivakrishnaMacha/Churn_Prediction_Using_MLflow_DVC) | Customer churn prediction with experiment tracking & versioning | MLflow · DVC |
