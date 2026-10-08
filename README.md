@@ -60,6 +60,7 @@
 
 | Project | What it does | Stack |
 |---|---|
+| [aws-rag-data-pipeline](https://github.com/ShivakrishnaMacha/aws-rag-data-pipeline) | RAG pipeline: doc ingestion → hybrid BM25+dense retrieval → citation-grounded answers | Python · FAISS · Streamlit | 
 | [ecommerce-analytics-platform](https://github.com/ShivakrishnaMacha/ecommerce-analytics-platform) | End-to-end ELT pipeline → DuckDB star schema → live BI dashboard | Python · DuckDB · Streamlit |
 | [End-to-End-Medical-Chatbot-GenAI](https://github.com/ShivakrishnaMacha/End-to-End-Medical-Chatbot-GenAI) | GenAI-powered medical chatbot, built end-to-end | Python · GenAI |
 | [End-to-End-MLOPS](https://github.com/ShivakrishnaMacha/End-to-End-MLOPS) | Production-grade MLOps pipeline | Python · MLflow |
