@@ -60,6 +60,7 @@
 
 | Project | What it does | Stack |
 |---|---|
+| [saas-metrics-dashboard](https://github.com/ShivakrishnaMacha/saas-metrics-dashboard) | Executive SaaS revenue dashboard — MRR bridge, NRR/GRR, cohort retention, churn drilldown, 6-month forecast | Streamlit · DuckDB · Plotly · Python |
 | [ab-test-analysis-toolkit](https://github.com/ShivakrishnaMacha/ab-test-analysis-toolkit) | A/B testing toolkit: power design, CUPED, SRM guardrails, live analysis demo | Python · Statistics · Streamlit |
 | [databricks-lakehouse-retail](https://github.com/ShivakrishnaMacha/databricks-lakehouse-retail) | Medallion lakehouse on Delta Lake: CDC merges, SCD Type 2, time travel | PySpark · Delta Lake · Streamlit |
 | [aws-rag-data-pipeline](https://github.com/ShivakrishnaMacha/aws-rag-data-pipeline) | RAG pipeline: doc ingestion → hybrid BM25+dense retrieval → citation-grounded answers | Python · FAISS · Streamlit | 
@@ -67,7 +68,6 @@
 | [End-to-End-Medical-Chatbot-GenAI](https://github.com/ShivakrishnaMacha/End-to-End-Medical-Chatbot-GenAI) | GenAI-powered medical chatbot, built end-to-end | Python · GenAI |
 | [End-to-End-MLOPS](https://github.com/ShivakrishnaMacha/End-to-End-MLOPS) | Production-grade MLOps pipeline | Python · MLflow |
 | [Churn_Prediction_Using_MLflow_DVC](https://github.com/ShivakrishnaMacha/Churn_Prediction_Using_MLflow_DVC) | Customer churn prediction with experiment tracking & versioning | MLflow · DVC |
-| [olympics_Data_Engineering_Project](https://github.com/ShivakrishnaMacha/olympics_Data_Engineering_Project) | Olympics data engineering & analytics pipeline | Python · SQL |
 
 ### 📊 GitHub Stats
 
