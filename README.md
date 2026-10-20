@@ -60,6 +60,7 @@
 
 | Project | What it does | Stack |
 |---|---|
+| [portfolio-risk-analytics](https://github.com/ShivakrishnaMacha/portfolio-risk-analytics) | Portfolio risk & performance lab — VaR/CVaR, drawdown, factor exposures, Monte Carlo efficient frontier | Python, DuckDB, Streamlit, Plotly |
 | [saas-metrics-dashboard](https://github.com/ShivakrishnaMacha/saas-metrics-dashboard) | Executive SaaS revenue dashboard — MRR bridge, NRR/GRR, cohort retention, churn drilldown, 6-month forecast | Streamlit · DuckDB · Plotly · Python |
 | [ab-test-analysis-toolkit](https://github.com/ShivakrishnaMacha/ab-test-analysis-toolkit) | A/B testing toolkit: power design, CUPED, SRM guardrails, live analysis demo | Python · Statistics · Streamlit |
 | [databricks-lakehouse-retail](https://github.com/ShivakrishnaMacha/databricks-lakehouse-retail) | Medallion lakehouse on Delta Lake: CDC merges, SCD Type 2, time travel | PySpark · Delta Lake · Streamlit |
@@ -67,7 +68,6 @@
 | [ecommerce-analytics-platform](https://github.com/ShivakrishnaMacha/ecommerce-analytics-platform) | End-to-end ELT pipeline → DuckDB star schema → live BI dashboard | Python · DuckDB · Streamlit |
 | [End-to-End-Medical-Chatbot-GenAI](https://github.com/ShivakrishnaMacha/End-to-End-Medical-Chatbot-GenAI) | GenAI-powered medical chatbot, built end-to-end | Python · GenAI |
 | [End-to-End-MLOPS](https://github.com/ShivakrishnaMacha/End-to-End-MLOPS) | Production-grade MLOps pipeline | Python · MLflow |
-| [Churn_Prediction_Using_MLflow_DVC](https://github.com/ShivakrishnaMacha/Churn_Prediction_Using_MLflow_DVC) | Customer churn prediction with experiment tracking & versioning | MLflow · DVC |
 
 ### 📊 GitHub Stats
 
