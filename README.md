@@ -60,6 +60,7 @@
 
 | Project | What it does | Stack |
 |---|---|
+| [realtime-clickstream-pipeline](https://github.com/ShivakrishnaMacha/realtime-clickstream-pipeline) | Real-time clickstream analytics pipeline — seeded event generator, simulated Kafka topic, tumbling-window aggregations with data-quality checks, live replay dashboard | Python · Streamlit · Plotly |
 | [portfolio-risk-analytics](https://github.com/ShivakrishnaMacha/portfolio-risk-analytics) | Portfolio risk & performance lab — VaR/CVaR, drawdown, factor exposures, Monte Carlo efficient frontier | Python, DuckDB, Streamlit, Plotly |
 | [saas-metrics-dashboard](https://github.com/ShivakrishnaMacha/saas-metrics-dashboard) | Executive SaaS revenue dashboard — MRR bridge, NRR/GRR, cohort retention, churn drilldown, 6-month forecast | Streamlit · DuckDB · Plotly · Python |
 | [ab-test-analysis-toolkit](https://github.com/ShivakrishnaMacha/ab-test-analysis-toolkit) | A/B testing toolkit: power design, CUPED, SRM guardrails, live analysis demo | Python · Statistics · Streamlit |
@@ -67,7 +68,6 @@
 | [aws-rag-data-pipeline](https://github.com/ShivakrishnaMacha/aws-rag-data-pipeline) | RAG pipeline: doc ingestion → hybrid BM25+dense retrieval → citation-grounded answers | Python · FAISS · Streamlit | 
 | [ecommerce-analytics-platform](https://github.com/ShivakrishnaMacha/ecommerce-analytics-platform) | End-to-end ELT pipeline → DuckDB star schema → live BI dashboard | Python · DuckDB · Streamlit |
 | [End-to-End-Medical-Chatbot-GenAI](https://github.com/ShivakrishnaMacha/End-to-End-Medical-Chatbot-GenAI) | GenAI-powered medical chatbot, built end-to-end | Python · GenAI |
-| [End-to-End-MLOPS](https://github.com/ShivakrishnaMacha/End-to-End-MLOPS) | Production-grade MLOps pipeline | Python · MLflow |
 
 ### 📊 GitHub Stats
 
