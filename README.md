@@ -60,6 +60,7 @@
 
 | Project | What it does | Stack |
 |---|---|
+| [airline-operations-dashboard](https://github.com/ShivakrishnaMacha/airline-operations-dashboard) | Airline operations BI dashboard — DOT-aligned KPIs (OTP A14, completion, load factor), delay-cause breakdown, route profitability proxy and seasonal demand over 18,000 seeded flights, [Live demo](https://airline-operations-dashboard.streamlit.app/) | Python, DuckDB, Streamlit, Plotly |
 | [Telecom Churn Analysis](https://github.com/ShivakrishnaMacha/telecom-churn-analysis) | EDA and a NumPy logistic-regression churn model on 6,000 synthetic telecom customers, with a live churn-risk calculator, [Live demo](https://bke5wosoav8yhvsilh22hy.streamlit.app/) | Python, pandas, NumPy, Streamlit, Plotly |
 | [realtime-clickstream-pipeline](https://github.com/ShivakrishnaMacha/realtime-clickstream-pipeline) | Real-time clickstream analytics pipeline — seeded event generator, simulated Kafka topic, tumbling-window aggregations with data-quality checks, live replay dashboard | Python · Streamlit · Plotly |
 | [portfolio-risk-analytics](https://github.com/ShivakrishnaMacha/portfolio-risk-analytics) | Portfolio risk & performance lab — VaR/CVaR, drawdown, factor exposures, Monte Carlo efficient frontier | Python, DuckDB, Streamlit, Plotly |
@@ -67,7 +68,6 @@
 | [ab-test-analysis-toolkit](https://github.com/ShivakrishnaMacha/ab-test-analysis-toolkit) | A/B testing toolkit: power design, CUPED, SRM guardrails, live analysis demo | Python · Statistics · Streamlit |
 | [databricks-lakehouse-retail](https://github.com/ShivakrishnaMacha/databricks-lakehouse-retail) | Medallion lakehouse on Delta Lake: CDC merges, SCD Type 2, time travel | PySpark · Delta Lake · Streamlit |
 | [aws-rag-data-pipeline](https://github.com/ShivakrishnaMacha/aws-rag-data-pipeline) | RAG pipeline: doc ingestion → hybrid BM25+dense retrieval → citation-grounded answers | Python · FAISS · Streamlit | 
-| [ecommerce-analytics-platform](https://github.com/ShivakrishnaMacha/ecommerce-analytics-platform) | End-to-end ELT pipeline → DuckDB star schema → live BI dashboard | Python · DuckDB · Streamlit |
 
 ### 📊 GitHub Stats
 
